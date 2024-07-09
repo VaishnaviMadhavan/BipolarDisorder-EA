@@ -1,6 +1,6 @@
 ---
 title: "EA- BIP sims Vaish"
-author: "Michel Nivard"
+author: "Michel Nivard, Vaish"
 format: html
 editor: visual
 ---
