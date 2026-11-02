@@ -1,0 +1,16 @@
+Bipolar Disorder and Education: Deciphering a Complex Relationship using Genetic and Sibling Differences in a Multi-cohort Study
+
+Within-sibling analysis of the association between bipolar disorder and educational outcomes using two analytical plans:
+1. Association between bipolar disorder polygenic scores and educational outcomes (academic performance and EA)
+    Data Sources: UK Biobank (UKB) and Statistics Norway (SSB) + The Norwegian Mother, Father, and Child Cohort Study (MoBa)
+   
+3. Association between early-life academic performance across ages 10 - 14 and bipolar disorder diagnosis
+    Data Sources: Statistics Netherlands (CBS) and Statistics Norway (SSB)
+
+Explanation of folders: 
+- CBS: Analysis Scripts for Statistics Netherlands (CBS) data
+- MoBa + SSB: Analysis Scripts for The Norwegian Mother, Father, and Child Cohort Study (MoBa) + Statistics Norway (SSB) data
+- UKB: Analysis Scripts for UK Biobank (UKB) data
+- Simulations: Power Simulation for analysis 1
+
+You can find the pre-registration here: https://osf.io/tpmj5
